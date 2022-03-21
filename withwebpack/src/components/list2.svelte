@@ -8,7 +8,7 @@
     }
 </script>
 <ul>
-    {#each items as item}
-    <li on:click="{select(item)}" value={item.id}>{item.text}</li>
+    {#each items as item, i}
+    <li on:click="{select(item)}" value={item.id}>{(i+1) + ". " + item.text}</li>
     {/each}
 </ul>

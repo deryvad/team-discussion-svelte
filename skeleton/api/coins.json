@@ -1,0 +1,14 @@
+[
+    {"code": "BTC", "name": "Bitcoin"},
+    {"code": "ETH", "name": "Ethereum"},
+    {"code": "BNB", "name": "BNB"},
+    {"code": "LUNA", "name": "Terra"},
+    {"code": "ADA", "name": "Cardano"},
+    {"code": "SOL", "name": "Solana"},
+    {"code": "AVAX", "name": "Avalanche"},
+    {"code": "DOT", "name": "Polkadot"},
+    {"code": "DOGE", "name": "Dogecoin"},
+    {"code": "MATIC", "name": "Polygon"},
+    {"code": "LINK", "name": "Chainlink"},
+    {"code": "FTM", "name": "Fantom"}
+]
